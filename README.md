@@ -5,6 +5,10 @@
 # ProxyFL
 Code accompanying the paper "ProxyFL: Decentralized Federated Learning through Proxy Model Sharing"
 
+Authors: [Shivam Kalra*](https://scholar.google.ca/citations?user=iEwZn18AAAAJ&hl=en), [Junfeng Wen*](https://junfengwen.github.io/), [Jesse C. Cresswell](https://scholar.google.ca/citations?user=7CwOlvoAAAAJ&hl=en), [Maksims Volkovs](http://www.cs.toronto.edu/~mvolkovs), [Hamid R. Tizhoosh&dagger;](https://scholar.google.ca/citations?user=Mzinpo0AAAAJ&hl=en)  
+* &ast; Denotes equal contribution
+* &dagger; University of Waterloo / Vector Institute
+
 ## Prerequisite
 - Python 3.9
 ```bash
@@ -37,3 +41,13 @@ Then run the script
 ```bash
 bash run_exp.sh
 ```
+
+## Citation
+
+If you find this code useful in your research, please cite the following paper:
+
+    @inproceedings{kalra2021,
+      title={ProxyFL: Decentralized Federated Learning through Proxy Model Sharing},
+      author={Shivam Kalra, Junfeng Wen, Jesse C. Cresswell, Maksims Volkovs, Hamid R. Tizhoosh},
+      year={2021}
+    }
