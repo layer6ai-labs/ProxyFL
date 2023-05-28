@@ -5,7 +5,7 @@
 # ProxyFL
 Code accompanying the paper "Decentralized Federated Learning through Proxy Model Sharing" published in [Nature Communications](https://www.nature.com/articles/s41467-023-38569-4).
 
-Authors: [Shivam Kalra*](https://scholar.google.ca/citations?user=iEwZn18AAAAJ&hl=en), [Junfeng Wen*](https://junfengwen.github.io/), [Jesse C. Cresswell](https://scholar.google.ca/citations?user=7CwOlvoAAAAJ&hl=en), [Maksims Volkovs](http://www.cs.toronto.edu/~mvolkovs), [Hamid R. Tizhoosh&dagger;](https://scholar.google.ca/citations?user=Mzinpo0AAAAJ&hl=en)  
+Authors: [Shivam Kalra*](https://scholar.google.ca/citations?user=iEwZn18AAAAJ&hl=en), [Junfeng Wen*](https://junfengwen.github.io/), [Jesse C. Cresswell*](https://scholar.google.ca/citations?user=7CwOlvoAAAAJ&hl=en), [Maksims Volkovs](http://www.cs.toronto.edu/~mvolkovs), [Hamid R. Tizhoosh&dagger;](https://scholar.google.ca/citations?user=Mzinpo0AAAAJ&hl=en)  
 * &ast; Denotes equal contribution
 * &dagger; University of Waterloo / Vector Institute
 
