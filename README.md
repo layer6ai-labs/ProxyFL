@@ -46,8 +46,16 @@ bash run_exp.sh
 
 If you find this code useful in your research, please cite the following paper:
 
-    @inproceedings{kalra2021,
-      title={ProxyFL: Decentralized Federated Learning through Proxy Model Sharing},
-      author={Shivam Kalra, Junfeng Wen, Jesse C. Cresswell, Maksims Volkovs, Hamid R. Tizhoosh},
-      year={2021}
+    @article{kalra2021proxyfl,
+        author={Kalra, Shivam and Wen, Junfeng and Cresswell, Jesse C. and Volkovs, Maksims and Tizhoosh, H. R.},
+        title={Decentralized federated learning through proxy model sharing},
+        journal={Nature Communications},
+        year={2023},
+        month={May},
+        day={22},
+        volume={14},
+        number={1},
+        pages={2899},
+        issn={2041-1723},
+        doi={10.1038/s41467-023-38569-4}
     }
